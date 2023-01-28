@@ -1,0 +1,2 @@
+# Using-Machine-Learning-Algorithms-For-IoT-traffic-Classification
+Internet of Things (IoT) refers to a diverse range of embedded devices which are connected to the Internet and can communicate and share information in smart environments. Monitoring IoT traffic regularly is important for both detection of malicious activities and proper functionality. One such critical activity is IoT traffic classification. 
